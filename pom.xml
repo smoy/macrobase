@@ -40,7 +40,7 @@
       <module>assembly</module>
       <module>legacy</module>
       <module>frontend</module>
-      <!-- <module>contrib</module> -->
+      <module>contrib</module>
       <module>sql</module>
       <module>lib</module>
       <module>core</module>
